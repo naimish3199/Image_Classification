@@ -4,3 +4,12 @@ Links for dataset  -
 For Part 1 - https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip , 
 For Part 2 - MNIST.zip (already uploaded in files section) , 
 For Part 3 - https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip
+
+
+References - 
+
+
+*   https://keras.io/api/
+*   https://stackoverflow.com/
+*   https://github.com/
+*   https://www.geeksforgeeks.org/ 
