@@ -13,3 +13,6 @@ References -
 *   https://stackoverflow.com/
 *   https://github.com/
 *   https://www.geeksforgeeks.org/ 
+ 
+**For Part 2 -  **
+Pretrained network can have high convergence time , less final accuracy as compared to randomly initialized network because Pretrained network for part 1 contains large number of classes so learning will be less as compared to MNIST.zip dataset as it has less classes 
