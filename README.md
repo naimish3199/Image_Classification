@@ -1,3 +1,4 @@
+**Problem -** 
 This dataset (https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip) is used to train a CNN.
 Next, select only 0-9 training images from the above dataset are selected and pretrained network is used to train on MNIST dataset. 
 Finally, pretrained network is trained on following dataset (https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip), test accuracy is provided on the MNIST test set, using the same test split from part 2. 
