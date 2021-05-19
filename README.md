@@ -1,3 +1,8 @@
+This dataset (https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip) is used to train a CNN.
+Next, select only 0-9 training images from the above dataset are selected and pretrained network is used to train on MNIST dataset. U
+Finally, following dataset (https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip), train on this dataset and provide test accuracy on the MNIST test set, using the same test split from part 2. 
+
+
 Initially before running code on google colab we have to make 3 folders manually which will contains train , test and validation data . Train , Test and Validation data is created in the code using "splitfolders" . I have used folders name as "ProcessedData" , "MNSITProcessed" and "P3" for Part 1 , Part 2 and Part 3 respectively . 
 
 Links for dataset  - 
